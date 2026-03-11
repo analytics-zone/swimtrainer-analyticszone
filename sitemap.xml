@@ -86,36 +86,42 @@
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/about/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/about/"/>
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/bibliography/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/bibliography/"/>
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/faq/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/faq/"/>
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/features/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/features/"/>
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/medical-disclaimer/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/medical-disclaimer/"/>
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/pricing/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/pricing/"/>
@@ -136,12 +142,14 @@
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/use-cases/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/use-cases/"/>
   </url>
   <url>
     <loc>https://swimtrainer.analyticszone.app/en/who-its-for/</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://swimtrainer.analyticszone.app/ca/who-its-for/"/>
