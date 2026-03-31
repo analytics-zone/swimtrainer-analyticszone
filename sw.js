@@ -1,8 +1,8 @@
 // Service Worker for Analytics Zone sites
 // Provides offline caching and faster repeat visits
 
-// NOTE: `1f1511407efd` is replaced at build time (see `copy_service_worker()` in `build.py`)
-const CACHE_VERSION = '1f1511407efd';
+// NOTE: `0c1e06ed4bea` is replaced at build time (see `copy_service_worker()` in `build.py`)
+const CACHE_VERSION = '0c1e06ed4bea';
 const CACHE_NAME = `analyticszone-${CACHE_VERSION}`;
 
 // Assets to cache immediately on install
