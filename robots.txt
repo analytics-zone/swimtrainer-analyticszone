@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swimtrainer.analyticszone.app/sitemap-index.xml
+
+# llms.txt: https://swimtrainer.analyticszone.app/llms.txt

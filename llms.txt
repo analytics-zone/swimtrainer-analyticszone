@@ -1,0 +1,25 @@
+# Swim Trainer — AnalyticsZone
+
+> Plan, execute, and analyze structured swim workouts with professional precision — for coaches and swimmers, with privacy-first, on-device data handling.
+
+Swim Trainer helps coaches and swimmers optimize performance through data-driven workout planning: build structured sets, execute them in the pool, and analyze the results.
+
+## Key pages
+
+- [Features](https://swimtrainer.analyticszone.app/en/features/): Workout builder, execution mode, and analysis tools.
+- [Use Cases](https://swimtrainer.analyticszone.app/en/use-cases/): How coaches, squads, and self-coached swimmers use Swim Trainer.
+- [Who It's For](https://swimtrainer.analyticszone.app/en/who-its-for/): Coaches, competitive swimmers, and triathletes.
+- [FAQ](https://swimtrainer.analyticszone.app/en/faq/): Common questions.
+- [Pricing](https://swimtrainer.analyticszone.app/en/pricing/): Plans and free trial.
+
+## Key facts
+
+- Swim Trainer separates planning (structured sets with target paces), execution (in-pool guidance), and analysis (comparing planned vs actual).
+- Workout data is processed on-device, following the AnalyticsZone privacy-first policy; no cloud uploads.
+- It complements Swim Analytics (https://swim.analyticszone.app), which covers CSS and swim training load metrics.
+
+## Contact
+
+- Author: Albert Arnó (https://onmedic.com)
+- Email: analyticszone@onmedic.org
+- Portfolio: https://analyticszone.app/llms.txt
