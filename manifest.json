@@ -1,0 +1,21 @@
+{
+  "name": "Swim Trainer | Professional Swim Workout Planning & Analysis",
+  "short_name": "Swim Trainer | Professional Swim Workout Planning & Analysis",
+  "description": "Plan, execute and analyze your swim workouts with professional precision. Swim Trainer helps coaches and swimmers optimize performance through data-driven planning.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
